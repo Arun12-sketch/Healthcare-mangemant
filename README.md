@@ -10,8 +10,6 @@ In this comprehensive tutorial, we will guide you through the process of buildin
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-blockchain-web3-tools:-next.js-solana-binance-solidity-and-ico-marketplace)
-
 #### Install Vs Code Editor
 
 ```https://code.visualstudio.com/download
